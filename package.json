@@ -1,6 +1,6 @@
 {
   "name": "isita",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Is it one?",
   "main": "index.js",
   "scripts": {
