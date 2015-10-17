@@ -11,12 +11,16 @@
     "url": "git+https://github.com/mrkev/isita.git"
   },
   "keywords": [
-    "type"
+    "type",
+    "check"
   ],
-  "author": "Kevin Chavez <keh222@cornell.edu> (http://thatkevin.tk)",
+  "author": "mrkev <keh222@cornell.edu> (http://thatkevin.tk)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mrkev/isita/issues"
   },
-  "homepage": "https://github.com/mrkev/isita#readme"
+  "homepage": "https://github.com/mrkev/isita#readme",
+  "dependencies": {
+    "coffee-script": "^1.10.0"
+  }
 }
